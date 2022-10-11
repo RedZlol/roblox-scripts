@@ -97,8 +97,8 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 		["fuck"] = "fu{{aieixzvzx:ck}}",
 		["fucks"] = "fu{{aieixzvzx:cks}}",
 		["fucked"] = "fu{{aieixzvzx:cked}}",
-		["fucking"] = "fu{{aieixzvzx:cking}}",
-		["fuckin"] = "fu{{aieixzvzx:cking}}",
+		["fucking"] = "fu{{aieixzvzx:ckign}}",
+		["fuckin"] = "fu{{aieixzvzx:ckign}}",
 		["gaylord"] = "gayl{{aieixzvzx:ord}}",
 		["gaylords"] = "gayl{{aieixzvzx:ords}}",  
 		["bastard"] = "bas{{aieixzvzx:tard}}",  --NEW
